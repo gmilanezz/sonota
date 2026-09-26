@@ -1,0 +1,6 @@
+import { Component } from '@angular/core';
+import { IonTabs,IonTabBar,IonTabButton,IonIcon,IonLabel } from '@ionic/angular/standalone';
+import { addIcons } from 'ionicons';
+import { homeOutline,peopleOutline,folderOpenOutline,musicalNotesOutline,ellipsisHorizontalOutline } from 'ionicons/icons';
+@Component({standalone:true,imports:[IonTabs,IonTabBar,IonTabButton,IonIcon,IonLabel],template:`<ion-tabs><ion-tab-bar slot="bottom"><ion-tab-button tab="inicio" href="/tabs/inicio"><ion-icon name="home-outline"></ion-icon><ion-label>Início</ion-label></ion-tab-button><ion-tab-button tab="clientes" href="/tabs/clientes"><ion-icon name="people-outline"></ion-icon><ion-label>Clientes</ion-label></ion-tab-button><ion-tab-button tab="projetos" href="/tabs/projetos"><ion-icon name="folder-open-outline"></ion-icon><ion-label>Projetos</ion-label></ion-tab-button><ion-tab-button tab="biblioteca" href="/tabs/biblioteca"><ion-icon name="musical-notes-outline"></ion-icon><ion-label>Biblioteca</ion-label></ion-tab-button><ion-tab-button tab="mais" href="/tabs/mais"><ion-icon name="ellipsis-horizontal-outline"></ion-icon><ion-label>Mais</ion-label></ion-tab-button></ion-tab-bar></ion-tabs>`})
+export class TabsPage{constructor(){addIcons({homeOutline,peopleOutline,folderOpenOutline,musicalNotesOutline,ellipsisHorizontalOutline})}}

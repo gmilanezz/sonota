@@ -1,0 +1,3189 @@
+DOCUMENTAÇÃO DO PROJETO SONOTA 
+
+1. M&G Criação — Empresa de Jether Garotti Junior 
+
+A M&G Criação é uma empresa especializada na prestação de serviços musicais, com atuação principalmente na produção de trilhas sonoras, composição e criação de arranjos orquestrais. 
+
+A empresa possui uma estrutura bastante diferente de organizações tradicionais. Grande parte da operação está concentrada em seu proprietário, Jether Garotti Junior, maestro, compositor e arranjador responsável tanto pela área artística quanto por diversas atividades administrativas da empresa. 
+
+Jether participa praticamente de todas as etapas do funcionamento da M&G Criação, incluindo: 
+
+contato com clientes; 
+
+entendimento das necessidades de cada trabalho; 
+
+elaboração das propostas; 
+
+criação dos arranjos; 
+
+composição musical; 
+
+produção de protótipos; 
+
+alterações solicitadas pelo cliente; 
+
+organização de arquivos; 
+
+acompanhamento de projetos; 
+
+controle de pagamentos; 
+
+organização de notas fiscais; 
+
+entrega dos trabalhos. 
+
+Como Jether trabalha com seus clientes 
+
+Um ponto importante identificado durante o levantamento das necessidades é que Jether não deseja substituir o contato pessoal com os clientes por um sistema automatizado. 
+
+Os clientes normalmente chegam até ele através de: 
+
+LinkedIn; 
+
+networking; 
+
+indicações; 
+
+outras redes profissionais. 
+
+Depois desse primeiro contato, Jether prefere conversar diretamente com o cliente através de: 
+
+WhatsApp; 
+
+ligação; 
+
+reuniões. 
+
+Essas conversas são importantes porque permitem que ele compreenda de forma mais detalhada aquilo que o cliente deseja antes de começar a produção. 
+
+Após entender a proposta, Jether desenvolve os primeiros protótipos e continua utilizando esses meios de comunicação para apresentar versões, receber opiniões e discutir alterações. 
+
+Por esse motivo, o objetivo do Sonota não é substituir o relacionamento entre Jether e seus clientes. 
+
+O sistema deve facilitar principalmente tudo aquilo que acontece ao redor desse relacionamento: organização, arquivos, projetos, protótipos, financeiro e acompanhamento do trabalho. 
+
+ 
+
+2. Problemas enfrentados pela M&G Criação 
+
+O principal problema da M&G não é a falta de capacidade artística ou técnica, mas a quantidade de tarefas administrativas e organizacionais que precisam ser realizadas pela mesma pessoa. 
+
+Como Jether é responsável por grande parte da empresa, tarefas operacionais acabam consumindo um tempo que poderia ser dedicado à produção musical. 
+
+2.1 Informações espalhadas 
+
+Dados importantes podem estar distribuídos entre diferentes lugares: 
+
+pastas do computador; 
+
+arquivos de áudio; 
+
+documentos; 
+
+planilhas; 
+
+WhatsApp; 
+
+notas fiscais; 
+
+anotações; 
+
+informações lembradas pelo próprio Jether. 
+
+Isso dificulta encontrar rapidamente informações relacionadas a trabalhos antigos ou atuais. 
+
+O que já existe atualmente 
+
+Atualmente, essas informações são organizadas de forma distribuída entre diferentes ferramentas e locais, sem necessariamente existir uma centralização completa dos dados. 
+
+Jether utiliza os recursos disponíveis para armazenar e consultar informações, mas precisa alternar entre pastas, arquivos, conversas, documentos e planilhas. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá centralizar essas informações em um único ambiente, relacionando: 
+
+clientes; 
+
+projetos; 
+
+arquivos; 
+
+protótipos; 
+
+arranjos; 
+
+pagamentos; 
+
+notas fiscais; 
+
+histórico de atividades. 
+
+ 
+
+2.2 Dificuldade para organizar arquivos musicais 
+
+Uma produtora musical pode acumular uma grande quantidade de: 
+
+arranjos; 
+
+demos; 
+
+protótipos; 
+
+referências; 
+
+versões; 
+
+masters; 
+
+partituras; 
+
+arquivos MIDI; 
+
+documentos. 
+
+Sem uma ferramenta centralizada, encontrar determinado arquivo pode depender de lembrar seu nome ou em qual pasta ele foi armazenado. 
+
+O que já existe atualmente 
+
+Atualmente, os arquivos musicais são armazenados em pastas e locais utilizados por Jether durante sua produção. 
+
+A organização depende principalmente da estrutura de pastas, dos nomes dos arquivos e da memória de onde cada material foi salvo. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir o cadastro e a organização dos arquivos musicais por meio de informações como: 
+
+nome; 
+
+tipo de arquivo; 
+
+projeto relacionado; 
+
+arranjo; 
+
+versão; 
+
+tags; 
+
+data; 
+
+observações. 
+
+ 
+
+2.3 Dificuldade para encontrar arranjos antigos 
+
+Jether pode precisar encontrar, por exemplo: 
+
+uma música com determinado BPM; 
+
+um arranjo em determinada tonalidade; 
+
+uma música que possua determinados instrumentos; 
+
+um trabalho utilizado anteriormente em outro projeto. 
+
+Os exploradores de arquivos tradicionais não foram criados para realizar pesquisas com características musicais. 
+
+O que já existe atualmente 
+
+Atualmente, a busca por arranjos é realizada principalmente por meio dos nomes dos arquivos, pastas e informações conhecidas por Jether. 
+
+Esse processo pode dificultar a localização de um arranjo quando ele não é encontrado pelo nome exato. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir pesquisas por características musicais, como: 
+
+BPM; 
+
+tonalidade; 
+
+gênero; 
+
+instrumentos; 
+
+tags; 
+
+projeto relacionado; 
+
+características sonoras. 
+
+ 
+
+2.4 Organização de projetos 
+
+Cada trabalho possui diversas informações relacionadas: 
+
+cliente; 
+
+proposta; 
+
+arquivos; 
+
+arranjos; 
+
+valor; 
+
+prazo; 
+
+status; 
+
+versões; 
+
+alterações; 
+
+protótipos. 
+
+Quando essas informações estão separadas, acompanhar o projeto se torna mais difícil. 
+
+O que já existe atualmente 
+
+Atualmente, os projetos são acompanhados por meio das informações e ferramentas utilizadas por Jether durante o trabalho. 
+
+As informações podem estar distribuídas entre conversas, arquivos, documentos e anotações. 
+
+O que será adicionado futuramente 
+
+Futuramente, cada projeto deverá possuir uma página própria no Sonota, reunindo: 
+
+cliente; 
+
+descrição; 
+
+prazo; 
+
+valor; 
+
+status; 
+
+arranjos; 
+
+arquivos; 
+
+protótipos; 
+
+versões; 
+
+informações financeiras; 
+
+histórico de atividades. 
+
+ 
+
+2.5 Controle de protótipos e versões 
+
+Durante um trabalho podem ser criadas diversas versões antes da aprovação final. 
+
+Por exemplo: 
+
+Protótipo V1; 
+
+Protótipo V2; 
+
+versão revisada; 
+
+versão aprovada; 
+
+master final. 
+
+Sem organização, arquivos podem acabar com nomes como: 
+
+musica-final.wav 
+
+musica-final2.wav 
+
+musica-final-nova.wav 
+
+musica-final-agora-certa.wav 
+
+Isso aumenta a possibilidade de confusão. 
+
+O que já existe atualmente 
+
+Atualmente, Jether produz diferentes versões dos trabalhos e armazena os arquivos conforme sua organização de produção. 
+
+O controle das versões depende dos nomes dos arquivos, das pastas e das conversas realizadas com o cliente. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá organizar as versões dentro de cada projeto, permitindo registrar: 
+
+número da versão; 
+
+arquivo; 
+
+data; 
+
+observações; 
+
+status; 
+
+versão aprovada; 
+
+master final. 
+
+ 
+
+2.6 Envio manual de protótipos 
+
+Atualmente, para enviar uma nova versão ao cliente, Jether pode precisar: 
+
+localizar o arquivo; 
+
+abrir o WhatsApp; 
+
+localizar o cliente; 
+
+escrever uma mensagem; 
+
+anexar o protótipo; 
+
+realizar o envio. 
+
+Individualmente são tarefas simples, mas se repetem constantemente durante os projetos. 
+
+O que já existe atualmente 
+
+Atualmente, o envio dos protótipos é realizado diretamente por Jether, principalmente por meio do WhatsApp ou de outros canais de comunicação utilizados com o cliente. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir que Jether: 
+
+selecione o projeto; 
+
+escolha a versão; 
+
+visualize o cliente; 
+
+confirme o número de WhatsApp; 
+
+edite uma mensagem; 
+
+envie o protótipo diretamente pelo sistema. 
+
+O objetivo será reduzir etapas repetitivas sem substituir o controle de Jether sobre a comunicação. 
+
+ 
+
+2.7 Controle financeiro 
+
+Também existe a necessidade de acompanhar: 
+
+valores dos projetos; 
+
+previsão de recebimento; 
+
+pagamentos pendentes; 
+
+pagamentos recebidos; 
+
+notas fiscais. 
+
+Essas informações precisam permanecer relacionadas ao projeto correspondente. 
+
+O que já existe atualmente 
+
+Atualmente, o controle financeiro é realizado com base nas informações dos projetos, pagamentos e documentos utilizados pela M&G. 
+
+Esses dados podem estar distribuídos entre planilhas, documentos, arquivos e anotações. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá relacionar automaticamente os dados financeiros aos projetos, permitindo acompanhar: 
+
+valor contratado; 
+
+valor recebido; 
+
+valor pendente; 
+
+vencimento; 
+
+situação do pagamento; 
+
+nota fiscal; 
+
+histórico financeiro. 
+
+ 
+
+2.8 Grande quantidade de tarefas administrativas 
+
+Como Jether acumula responsabilidades administrativas e criativas, pequenas tarefas podem acabar ocupando uma parte significativa da sua rotina. 
+
+O objetivo principal da solução é reduzir esse trabalho repetitivo. 
+
+O que já existe atualmente 
+
+Atualmente, Jether realiza manualmente grande parte das tarefas administrativas relacionadas aos clientes, projetos, arquivos, protótipos e pagamentos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá automatizar ou simplificar tarefas repetitivas, como: 
+
+atualização de status; 
+
+organização de versões; 
+
+envio de protótipos; 
+
+atualização financeira; 
+
+registro de atividades; 
+
+identificação de pendências; 
+
+busca por arquivos; 
+
+acompanhamento de prazos. 
+
+ 
+
+3. Harmônico 
+
+A Harmônico é uma empresa voltada para o desenvolvimento de soluções tecnológicas destinadas à automação e otimização de processos empresariais. 
+
+Apesar de o primeiro grande projeto estar relacionado ao mercado musical, a proposta da Harmônico não é desenvolver soluções exclusivamente para esse setor. 
+
+A empresa busca analisar como diferentes organizações trabalham, identificar processos repetitivos, burocráticos ou pouco eficientes e desenvolver ferramentas capazes de simplificá-los. 
+
+A proposta da Harmônico pode ser resumida em: 
+
+Identificar processos que consomem tempo dentro de uma empresa e utilizar tecnologia, software e inteligência artificial para torná-los mais organizados e eficientes. 
+
+Dentro desse conceito surgiu o Sonota, desenvolvido inicialmente a partir das necessidades reais da M&G Criação. 
+
+O que já existe atualmente 
+
+Atualmente, a Harmônico possui a proposta de desenvolver soluções tecnológicas voltadas à automação e otimização de processos empresariais. 
+
+O Sonota surgiu como o primeiro projeto desenvolvido a partir das necessidades da M&G Criação. 
+
+O que será adicionado futuramente 
+
+Futuramente, a Harmônico poderá utilizar a experiência adquirida com o Sonota para desenvolver soluções para outras empresas e setores. 
+
+A estrutura criada poderá ser adaptada para diferentes tipos de processos, organizações e necessidades. 
+
+ 
+
+4. O que é o Sonota 
+
+O Sonota é uma plataforma de gestão e inteligência desenvolvida pela Harmônico para organizar a operação de produtoras musicais, compositores e estúdios de criação. 
+
+Seu objetivo é reunir em um único ambiente informações que normalmente estariam espalhadas entre: 
+
+pastas; 
+
+planilhas; 
+
+documentos; 
+
+programas; 
+
+arquivos de áudio; 
+
+sistemas financeiros. 
+
+No caso da M&G Criação, o Sonota será desenvolvido principalmente para reduzir a quantidade de atividades administrativas realizadas por Jether. 
+
+O sistema não pretende interferir no processo criativo ou substituir sua relação direta com os clientes. 
+
+Sua função é cuidar principalmente da organização do trabalho. 
+
+Objetivo principal 
+
+O Sonota busca permitir que Jether utilize menos tempo: 
+
+procurando arquivos; 
+
+organizando informações; 
+
+controlando projetos; 
+
+localizando versões; 
+
+acompanhando pagamentos; 
+
+realizando tarefas repetitivas. 
+
+E possa utilizar mais tempo em: 
+
+composição; 
+
+criação; 
+
+arranjos; 
+
+produção musical; 
+
+decisões artísticas. 
+
+O que já existe atualmente 
+
+Atualmente, o Sonota já possui a proposta de funcionar como uma plataforma central de organização da operação da M&G Criação. 
+
+A estrutura inicial contempla áreas para: 
+
+clientes; 
+
+projetos; 
+
+arranjos; 
+
+biblioteca; 
+
+financeiro; 
+
+assistente; 
+
+perfil; 
+
+Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá evoluir para uma plataforma mais integrada, com: 
+
+automações entre as páginas; 
+
+inteligência artificial; 
+
+busca por linguagem natural; 
+
+processamento de áudio; 
+
+envio de protótipos; 
+
+alertas operacionais; 
+
+histórico completo dos projetos; 
+
+integração entre produção e financeiro. 
+
+ 
+
+5. Estrutura do Sonota 
+
+A estrutura principal planejada para o sistema contém: 
+
+Login; 
+
+Dashboard; 
+
+Clientes; 
+
+Arranjos; 
+
+Projetos; 
+
+Biblioteca; 
+
+Busca Inteligente; 
+
+Financeiro; 
+
+Assistente Sonota; 
+
+Perfil. 
+
+Além dessas áreas, recursos de inteligência artificial e processamento de áudio poderão ser incorporados progressivamente. 
+
+O que já existe atualmente 
+
+Atualmente, a estrutura principal do Sonota já está definida com as páginas e módulos essenciais para a operação da M&G Criação. 
+
+Essas áreas formam a base inicial da plataforma. 
+
+O que será adicionado futuramente 
+
+Futuramente, poderão ser adicionados: 
+
+notificações; 
+
+permissões de usuários; 
+
+equipes; 
+
+organizações; 
+
+integrações externas; 
+
+automações avançadas; 
+
+processamento de áudio; 
+
+relatórios; 
+
+recursos de inteligência artificial. 
+
+ 
+
+6. Página de Login 
+
+A tela de Login será responsável por controlar o acesso ao Sonota. 
+
+Cada usuário terá seu próprio ambiente e seus próprios dados. 
+
+O que já existe atualmente 
+
+A página de Login já possui a estrutura básica necessária para permitir o acesso ao sistema. 
+
+Ela deverá conter: 
+
+e-mail; 
+
+senha; 
+
+botão Entrar; 
+
+criação de conta; 
+
+recuperação de senha. 
+
+Cada conta deverá possuir seus próprios: 
+
+clientes; 
+
+projetos; 
+
+arranjos; 
+
+arquivos; 
+
+informações financeiras. 
+
+Assim, dados pertencentes a usuários diferentes não serão misturados. 
+
+O que será adicionado futuramente 
+
+Futuramente, poderão ser adicionados: 
+
+autenticação em dois fatores; 
+
+confirmação de e-mail; 
+
+recuperação avançada de conta; 
+
+organizações; 
+
+equipes; 
+
+permissões; 
+
+controle de sessões; 
+
+notificações de segurança. 
+
+ 
+
+7. Dashboard 
+
+O Dashboard será a página inicial do Sonota e deverá seguir como base visual e estrutural o protótipo Sonota V6. 
+
+A página será organizada em um fluxo vertical de seções, permitindo que Jether visualize primeiro uma mensagem de boas-vindas, depois os principais indicadores da operação e, em seguida, as informações que exigem acompanhamento. 
+
+A estrutura final do Dashboard será composta por: 
+
+Card de boas-vindas; 
+
+Seção de indicadores; 
+
+Seção operacional com os cards “Fluxo de estúdio” e “Precisa da sua atenção”; 
+
+Seção de acompanhamento com os cards “Próximas entregas” e “Atividades recentes”. 
+
+O que já existe atualmente 
+
+Atualmente, o Dashboard já possui a estrutura visual baseada no protótipo Sonota V6. 
+
+A página já foi planejada para conter: 
+
+card de boas-vindas; 
+
+indicadores; 
+
+gráfico de fluxo de estúdio; 
+
+pendências; 
+
+próximas entregas; 
+
+atividades recentes. 
+
+O gráfico de fluxo de estúdio já existe como protótipo visual, mas ainda utiliza dados fixos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Dashboard deverá ser conectado aos dados reais do sistema. 
+
+Ele deverá: 
+
+atualizar os indicadores automaticamente; 
+
+utilizar dados do usuário autenticado; 
+
+apresentar valores reais; 
+
+identificar pendências; 
+
+mostrar projetos próximos do prazo; 
+
+registrar atividades recentes; 
+
+atualizar o gráfico financeiro; 
+
+permitir acesso rápido aos projetos relacionados. 
+
+ 
+
+7.1 Card de boas-vindas 
+
+No topo do Dashboard deverá existir um card de boas-vindas, seguindo o conceito visual apresentado no protótipo Sonota V6. 
+
+Esse card deverá apresentar uma mensagem personalizada para Jether, como: 
+
+Olá, Jether! 
+Aqui está um resumo do que está acontecendo no seu estúdio. 
+
+O card poderá conter também uma frase de apoio, indicando que o Dashboard reúne os principais dados da operação. 
+
+Exemplo: 
+
+Acompanhe seus projetos, recebimentos, entregas e atividades recentes em um só lugar. 
+
+O card de boas-vindas deverá funcionar como a introdução visual da página e não deverá apresentar excesso de informações ou indicadores. 
+
+O que já existe atualmente 
+
+Atualmente, o card de boas-vindas já está previsto na estrutura visual do Dashboard. 
+
+Ele possui a função de apresentar uma mensagem personalizada e introduzir Jether às informações da página. 
+
+O que será adicionado futuramente 
+
+Futuramente, a mensagem poderá ser personalizada de acordo com: 
+
+nome do usuário; 
+
+horário do acesso; 
+
+quantidade de projetos ativos; 
+
+pendências existentes; 
+
+situação geral da operação. 
+
+ 
+
+7.2 Seção de indicadores 
+
+Logo abaixo do card de boas-vindas deverá existir uma seção dedicada aos principais indicadores da M&G Criação. 
+
+Essa seção deverá conter quatro cards: 
+
+Clientes; 
+
+Arranjos; 
+
+Projetos; 
+
+Valor já recebido. 
+
+Os cards deverão apresentar dados reais do sistema, atualizados de acordo com os registros cadastrados. 
+
+O que já existe atualmente 
+
+Atualmente, a seção de indicadores já está definida visualmente no Dashboard. 
+
+Ela possui quatro indicadores principais: 
+
+quantidade de clientes; 
+
+quantidade de arranjos; 
+
+quantidade de projetos; 
+
+valor recebido. 
+
+O que será adicionado futuramente 
+
+Futuramente, os indicadores deverão ser conectados aos dados reais da plataforma. 
+
+Eles deverão ser atualizados automaticamente quando: 
+
+um cliente for criado ou excluído; 
+
+um arranjo for cadastrado ou removido; 
+
+um projeto for criado ou excluído; 
+
+um pagamento for registrado; 
+
+um pagamento for alterado; 
+
+um projeto for concluído. 
+
+ 
+
+Card de clientes 
+
+Deverá apresentar a quantidade total de clientes cadastrados na plataforma. 
+
+Exemplo: 
+
+Clientes 
+
+24 
+
+O número deverá ser atualizado automaticamente sempre que um cliente for criado ou excluído. 
+
+O que já existe atualmente 
+
+Atualmente, o card de clientes já está previsto na seção de indicadores do Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, o número deverá ser calculado automaticamente com base nos clientes cadastrados na conta do usuário. 
+
+ 
+
+Card de arranjos 
+
+Deverá apresentar a quantidade total de arranjos cadastrados. 
+
+Exemplo: 
+
+Arranjos 
+
+86 
+
+O indicador deverá considerar os arranjos disponíveis na biblioteca do usuário. 
+
+O que já existe atualmente 
+
+Atualmente, o card de arranjos já está previsto na estrutura do Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, o indicador deverá ser atualizado automaticamente sempre que um arranjo for criado, editado ou excluído. 
+
+ 
+
+Card de projetos 
+
+Deverá apresentar a quantidade total de projetos cadastrados ou, conforme definido no protótipo Sonota V6, a quantidade de projetos ativos. 
+
+A regra utilizada deverá ser padronizada no sistema para evitar divergência entre o Dashboard e a página de Projetos. 
+
+Exemplo: 
+
+Projetos 
+
+12 
+
+Caso o card seja configurado para mostrar projetos ativos, essa informação deverá estar identificada visualmente. 
+
+O que já existe atualmente 
+
+Atualmente, o card de projetos já está previsto no Dashboard. 
+
+A regra entre mostrar todos os projetos ou apenas os projetos ativos ainda deverá ser padronizada. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá definir uma regra única para esse indicador e atualizá-lo automaticamente conforme os projetos forem criados, concluídos, cancelados ou excluídos. 
+
+ 
+
+Card de valor já recebido 
+
+Deverá apresentar o valor total recebido pela M&G Criação dentro do período ou do histórico definido para o Dashboard. 
+
+Exemplo: 
+
+Valor recebido 
+
+R$ 32.500 
+
+Esse valor deverá ser calculado com base nos registros financeiros dos projetos marcados como recebidos. 
+
+O card não deverá considerar valores apenas previstos ou ainda pendentes. 
+
+O que já existe atualmente 
+
+Atualmente, o card de valor recebido já está previsto visualmente no Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, o valor deverá ser calculado automaticamente com base nos pagamentos registrados como recebidos. 
+
+O sistema deverá atualizar o indicador quando: 
+
+um pagamento for registrado; 
+
+um pagamento for alterado; 
+
+um pagamento for removido; 
+
+um projeto for marcado como recebido. 
+
+ 
+
+7.3 Seção operacional 
+
+Abaixo da seção de indicadores deverá existir uma nova seção com dois cards lado a lado: 
+
+Fluxo de estúdio; 
+
+Precisa da sua atenção. 
+
+Essa seção deverá concentrar informações que ajudam Jether a entender o desempenho recente do estúdio e identificar situações que exigem alguma ação. 
+
+O que já existe atualmente 
+
+Atualmente, a seção operacional já está definida na estrutura do Dashboard. 
+
+Ela possui os cards: 
+
+Fluxo de estúdio; 
+
+Precisa da sua atenção. 
+
+O que será adicionado futuramente 
+
+Futuramente, esses cards deverão ser conectados aos dados reais dos projetos e do financeiro. 
+
+Eles deverão atualizar automaticamente suas informações conforme a operação da M&G for alterada. 
+
+ 
+
+7.4 Card “Fluxo de estúdio” 
+
+O card Fluxo de estúdio deverá utilizar como base o componente já existente no protótipo Sonota V6. 
+
+Atualmente, o gráfico está configurado apenas como protótipo visual, com dados fixos. Na versão final do projeto, ele deverá funcionar com dados reais do sistema. 
+
+O card deverá apresentar um gráfico de colunas referente aos últimos seis meses. 
+
+Cada coluna deverá representar um mês e deverá relacionar as operações financeiras e de projetos realizadas naquele período. 
+
+O gráfico deverá permitir acompanhar: 
+
+o valor recebido em cada mês; 
+
+a quantidade de projetos finalizados em cada mês. 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico de Fluxo de estúdio já existe visualmente no protótipo Sonota V6. 
+
+Ele apresenta a estrutura de um gráfico mensal, mas ainda utiliza dados fixos e não está totalmente conectado aos registros reais da plataforma. 
+
+O que será adicionado futuramente 
+
+Futuramente, o gráfico deverá: 
+
+utilizar dados reais; 
+
+calcular os valores recebidos por mês; 
+
+calcular os projetos finalizados por mês; 
+
+atualizar-se automaticamente; 
+
+apresentar tooltips; 
+
+considerar os últimos seis meses; 
+
+manter meses sem movimentação com valor zero. 
+
+ 
+
+Funcionamento do gráfico 
+
+O eixo horizontal deverá apresentar os seis meses analisados. 
+
+Exemplo: 
+
+Abril; 
+
+Maio; 
+
+Junho; 
+
+Julho; 
+
+Agosto; 
+
+Setembro. 
+
+O eixo vertical deverá representar os valores ou a escala utilizada pelo gráfico. 
+
+A visualização deverá seguir o padrão visual do protótipo Sonota V6, mantendo a identidade visual do Sonota. 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico já possui a estrutura visual de comparação mensal. 
+
+O que será adicionado futuramente 
+
+Futuramente, os eixos deverão ser preenchidos automaticamente com base no período analisado e nos dados reais do sistema. 
+
+ 
+
+Dados utilizados 
+
+O gráfico deverá ser alimentado automaticamente pelos dados reais da plataforma. 
+
+Para cada mês, o sistema deverá calcular: 
+
+soma dos valores recebidos naquele mês; 
+
+quantidade de projetos finalizados naquele mês. 
+
+O valor recebido deverá considerar somente pagamentos registrados como efetivamente recebidos. 
+
+A quantidade de projetos finalizados deverá considerar projetos cujo status tenha sido alterado para Concluído dentro do mês correspondente. 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico possui dados demonstrativos para representar seu funcionamento visual. 
+
+O que será adicionado futuramente 
+
+Futuramente, os dados fixos deverão ser substituídos por informações reais de: 
+
+pagamentos; 
+
+projetos concluídos; 
+
+datas de recebimento; 
+
+datas de conclusão. 
+
+ 
+
+Interação ao passar o mouse 
+
+Quando Jether passar o cursor sobre uma coluna do gráfico, deverá aparecer uma janela informativa, como um tooltip. 
+
+Essa janela deverá apresentar: 
+
+nome do mês; 
+
+valor total recebido no mês; 
+
+quantidade de projetos finalizados no mês. 
+
+Exemplo: 
+
+Setembro 
+
+Valor recebido: R$ 8.500 
+
+Projetos finalizados: 4 
+
+A janela deverá aparecer próxima à coluna selecionada e desaparecer quando o cursor for retirado. 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico possui a estrutura visual para receber informações mensais. 
+
+O que será adicionado futuramente 
+
+Futuramente, será adicionada a interação com o cursor, permitindo visualizar os detalhes de cada mês sem sobrecarregar o gráfico com textos. 
+
+ 
+
+Atualização dos dados 
+
+O gráfico deverá ser atualizado automaticamente quando: 
+
+um pagamento for registrado; 
+
+um pagamento recebido for alterado; 
+
+um projeto for marcado como concluído; 
+
+um projeto concluído for reaberto; 
+
+um projeto for excluído; 
+
+o período de análise for atualizado. 
+
+Os dados deverão ser carregados a partir das informações reais do usuário autenticado. 
+
+Não deverão ser utilizados valores fixos no projeto final. 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico não possui atualização automática baseada nos dados reais. 
+
+O que será adicionado futuramente 
+
+Futuramente, o gráfico deverá ser atualizado sempre que houver alterações nos projetos ou no financeiro. 
+
+ 
+
+Período analisado 
+
+Por padrão, o card deverá apresentar os últimos seis meses a partir do mês atual. 
+
+Caso não existam dados em determinado mês, o gráfico deverá apresentar a coluna com valor zero, mantendo o mês visível para preservar a comparação entre os períodos. 
+
+Exemplo: 
+
+Junho 
+
+Valor recebido: R$ 0 
+
+Projetos finalizados: 0 
+
+O que já existe atualmente 
+
+Atualmente, o gráfico possui uma estrutura mensal demonstrativa. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá calcular automaticamente os seis meses anteriores ao mês atual e preencher os meses sem movimentação com valor zero. 
+
+ 
+
+Possível expansão 
+
+Futuramente, o card poderá permitir a alteração do período de análise, como: 
+
+últimos seis meses; 
+
+últimos doze meses; 
+
+ano atual; 
+
+ano anterior. 
+
+Essa expansão não é obrigatória para a primeira versão funcional, mas a estrutura deverá ser planejada para permitir sua implementação posteriormente. 
+
+O que já existe atualmente 
+
+Atualmente, o período principal planejado é de seis meses. 
+
+O que será adicionado futuramente 
+
+Futuramente, Jether poderá selecionar diferentes períodos de análise para comparar o desempenho da operação. 
+
+ 
+
+7.5 Card “Precisa da sua atenção” 
+
+Ao lado do card “Fluxo de estúdio” deverá existir o card Precisa da sua atenção. 
+
+Esse card deverá apresentar situações importantes que exigem acompanhamento ou alguma ação de Jether. 
+
+Exemplos: 
+
+Campanha Aurora 
+Entrega amanhã. 
+
+Projeto Orquestral 
+Protótipo ainda não enviado. 
+
+Vinheta Summer 
+Pagamento pendente. 
+
+Arranjo Institucional 
+Projeto concluído sem nota fiscal. 
+
+O card deverá ser alimentado automaticamente com base nos dados dos projetos e do financeiro. 
+
+O que já existe atualmente 
+
+Atualmente, o card “Precisa da sua atenção” já está previsto na estrutura do Dashboard. 
+
+Ele possui a função de apresentar pendências e situações importantes da operação. 
+
+O que será adicionado futuramente 
+
+Futuramente, o card deverá identificar automaticamente as pendências com base nos dados reais dos projetos, prazos, protótipos e pagamentos. 
+
+ 
+
+Tipos de alertas 
+
+O card poderá apresentar: 
+
+projetos com entrega próxima; 
+
+projetos atrasados; 
+
+protótipos ainda não enviados; 
+
+pagamentos pendentes; 
+
+pagamentos atrasados; 
+
+projetos concluídos sem nota fiscal; 
+
+projetos sem arranjo associado; 
+
+projetos em revisão aguardando ação. 
+
+Cada item deverá apresentar informações suficientes para que Jether entenda o motivo do alerta. 
+
+O que já existe atualmente 
+
+Atualmente, os tipos de alertas já foram definidos como parte do planejamento do Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá identificar e classificar automaticamente cada situação, priorizando os alertas mais urgentes. 
+
+ 
+
+Interação 
+
+Ao clicar em um item, Jether deverá ser direcionado para a página ou projeto relacionado. 
+
+Exemplo: 
+
+clicar em “Pagamento pendente” abre os detalhes financeiros do projeto; 
+
+clicar em “Protótipo ainda não enviado” abre a área de versões e envio; 
+
+clicar em “Entrega amanhã” abre os detalhes do projeto. 
+
+Caso não existam pendências, o card deverá apresentar uma mensagem positiva. 
+
+Exemplo: 
+
+Tudo certo por aqui. Nenhuma pendência importante encontrada. 
+
+O que já existe atualmente 
+
+Atualmente, o card já está planejado para apresentar informações de acompanhamento. 
+
+O que será adicionado futuramente 
+
+Futuramente, cada alerta deverá ser clicável e direcionar Jether diretamente para a área que precisa de atenção. 
+
+ 
+
+7.6 Seção de acompanhamento 
+
+Abaixo da seção operacional deverá existir outra seção com dois cards lado a lado: 
+
+Próximas entregas; 
+
+Atividades recentes. 
+
+Essa seção deverá apresentar informações cronológicas e ajudar Jether a acompanhar o andamento da rotina do estúdio. 
+
+O que já existe atualmente 
+
+Atualmente, a seção de acompanhamento já está prevista na estrutura do Dashboard. 
+
+O que será adicionado futuramente 
+
+Futuramente, os cards deverão ser alimentados automaticamente com os prazos e atividades reais da plataforma. 
+
+ 
+
+7.7 Card “Próximas entregas” 
+
+O card Próximas entregas deverá apresentar uma lista cronológica dos projetos que possuem prazo próximo. 
+
+Exemplo: 
+
+23/09 — Campanha Aurora 
+
+26/09 — Arranjo Institucional 
+
+30/09 — Vinheta Summer 
+
+Cada item poderá apresentar: 
+
+data de entrega; 
+
+nome do projeto; 
+
+cliente; 
+
+status; 
+
+indicação visual de urgência. 
+
+Projetos com prazo mais próximo deverão aparecer primeiro. 
+
+Projetos atrasados poderão receber uma indicação visual específica, como: 
+
+cor de alerta; 
+
+etiqueta “Atrasado”; 
+
+destaque no texto. 
+
+Ao clicar em uma entrega, Jether deverá ser direcionado para os detalhes do projeto correspondente. 
+
+Caso não existam entregas próximas, o card deverá apresentar uma mensagem informativa. 
+
+Exemplo: 
+
+Nenhuma entrega próxima cadastrada. 
+
+O que já existe atualmente 
+
+Atualmente, o card já está previsto para apresentar uma lista de entregas organizadas por data. 
+
+O que será adicionado futuramente 
+
+Futuramente, a lista deverá ser preenchida automaticamente com base nos prazos dos projetos e deverá destacar entregas próximas ou atrasadas. 
+
+ 
+
+7.8 Card “Atividades recentes” 
+
+O card Atividades recentes deverá apresentar os últimos acontecimentos registrados no sistema. 
+
+O sistema poderá registrar atividades como: 
+
+protótipo enviado; 
+
+projeto concluído; 
+
+status alterado; 
+
+nota fiscal adicionada; 
+
+pagamento recebido; 
+
+novo arranjo cadastrado; 
+
+novo cliente criado; 
+
+nova versão adicionada; 
+
+projeto criado; 
+
+projeto movido para outra etapa. 
+
+Exemplo: 
+
+Protótipo enviado 
+Campanha Aurora — há 2 horas. 
+
+Pagamento recebido 
+Projeto Orquestral — ontem. 
+
+Novo arranjo cadastrado 
+Aurora Theme — há 2 dias. 
+
+As atividades deverão ser organizadas da mais recente para a mais antiga. 
+
+Ao clicar em uma atividade, Jether poderá ser direcionado para o registro relacionado. 
+
+O que já existe atualmente 
+
+Atualmente, o card já está previsto para apresentar atividades recentes da operação. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá registrar automaticamente as ações realizadas nas páginas de: 
+
+projetos; 
+
+clientes; 
+
+arranjos; 
+
+financeiro; 
+
+protótipos; 
+
+versões; 
+
+notas fiscais. 
+
+ 
+
+7.9 Ordem final da página 
+
+A estrutura visual final do Dashboard deverá seguir esta ordem: 
+
+Primeiro bloco 
+
+Card de boas-vindas 
+
+Mensagem personalizada para Jether e resumo da função do Dashboard. 
+
+Segundo bloco 
+
+Seção de indicadores 
+
+Com quatro cards: 
+
+Clientes; 
+
+Arranjos; 
+
+Projetos; 
+
+Valor já recebido. 
+
+Terceiro bloco 
+
+Seção operacional 
+
+Com dois cards: 
+
+Fluxo de estúdio; 
+
+Precisa da sua atenção. 
+
+Quarto bloco 
+
+Seção de acompanhamento 
+
+Com dois cards: 
+
+Próximas entregas; 
+
+Atividades recentes. 
+
+Essa organização deverá seguir o protótipo Sonota V6 como referência visual, mas com os dados conectados ao funcionamento real da aplicação. 
+
+O que já existe atualmente 
+
+Atualmente, a ordem visual das seções já está definida com base no protótipo Sonota V6. 
+
+O que será adicionado futuramente 
+
+Futuramente, todas as seções deverão funcionar com dados reais, atualizações automáticas e links para os registros relacionados. 
+
+ 
+
+7.10 Requisitos gerais do Dashboard 
+
+O Dashboard deverá: 
+
+utilizar dados reais do usuário autenticado; 
+
+atualizar os indicadores automaticamente; 
+
+evitar informações fixas no projeto final; 
+
+manter o padrão visual do protótipo Sonota V6; 
+
+permitir acesso rápido aos registros relacionados; 
+
+apresentar informações de forma clara e objetiva; 
+
+funcionar como uma central operacional da M&G Criação; 
+
+destacar pendências sem substituir a comunicação direta de Jether com os clientes. 
+
+O que já existe atualmente 
+
+Atualmente, o Dashboard já possui sua estrutura visual e seus principais componentes definidos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Dashboard deverá ser integrado aos demais módulos do Sonota, tornando-se uma central operacional completa da M&G Criação. 
+
+ 
+
+8. Página de Clientes 
+
+A página de Clientes centralizará as informações das pessoas e empresas atendidas pela M&G. 
+
+O que já existe atualmente 
+
+Atualmente, a página de Clientes já possui a estrutura para cadastrar e organizar os clientes da M&G. 
+
+Um cliente poderá possuir: 
+
+nome; 
+
+empresa; 
+
+CPF ou CNPJ; 
+
+telefone; 
+
+WhatsApp; 
+
+e-mail; 
+
+status; 
+
+observações. 
+
+Será possível: 
+
+cadastrar; 
+
+visualizar; 
+
+editar; 
+
+excluir; 
+
+pesquisar clientes. 
+
+Ao selecionar um cliente, será possível visualizar suas informações detalhadas. 
+
+O Sonota não será utilizado para controlar prospecção ou substituir a conversa entre Jether e seus clientes. 
+
+O número do WhatsApp armazenado terá funções operacionais, como facilitar o envio de protótipos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o perfil do cliente poderá mostrar: 
+
+projetos realizados; 
+
+arranjos utilizados; 
+
+valores recebidos; 
+
+valores pendentes; 
+
+histórico de trabalhos; 
+
+protótipos enviados; 
+
+notas fiscais relacionadas. 
+
+Exemplo: 
+
+Marina Costa 
+
+Projetos realizados: 8 
+
+Total contratado: R$ 42.500 
+
+Projetos ativos: 2 
+
+Arranjos utilizados: 6 
+
+ 
+
+9. Página de Projetos 
+
+Projetos representam cada serviço realizado pela M&G. 
+
+Essa será uma das áreas mais importantes do Sonota porque conecta: 
+
+Cliente + Produção + Arquivos + Arranjos + Financeiro. 
+
+A página de Projetos deverá permitir que Jether acompanhe os trabalhos cadastrados, visualize suas informações, realize ações administrativas e organize os projetos de acordo com suas respectivas etapas. 
+
+O que já existe atualmente 
+
+Atualmente, a página de Projetos já possui a estrutura planejada para: 
+
+cadastrar projetos; 
+
+visualizar projetos; 
+
+editar projetos; 
+
+excluir projetos; 
+
+organizar projetos por etapas; 
+
+relacionar clientes; 
+
+registrar prazo; 
+
+registrar valor; 
+
+acompanhar status; 
+
+acessar versões; 
+
+acessar informações financeiras. 
+
+O que será adicionado futuramente 
+
+Futuramente, a página deverá ser integrada aos demais módulos do Sonota, permitindo: 
+
+envio de protótipos; 
+
+atualização automática do Financeiro; 
+
+registro de histórico; 
+
+movimentação por arrastar e soltar; 
+
+atualização do Dashboard; 
+
+alertas de prazo; 
+
+automações pelo Assistente Sonota. 
+
+ 
+
+9.1 Projetos cadastrados 
+
+A seção Projetos cadastrados deverá apresentar todos os projetos registrados no Sonota. 
+
+Cada projeto deverá ser exibido em um card contendo exclusivamente os dados principais definidos para essa visualização: 
+
+nome do projeto; 
+
+descrição do projeto; 
+
+cliente; 
+
+prazo; 
+
+valor. 
+
+O status do projeto não deverá aparecer como um dado principal dentro do card. Ele será representado pela coluna correspondente na seção Visão por etapas. 
+
+Essa organização deverá manter os cards simples e objetivos, permitindo que Jether identifique rapidamente as informações essenciais de cada trabalho. 
+
+O que já existe atualmente 
+
+Atualmente, a seção de Projetos cadastrados já está planejada para apresentar os projetos em cards objetivos. 
+
+Os cards deverão conter: 
+
+nome; 
+
+descrição; 
+
+cliente; 
+
+prazo; 
+
+valor. 
+
+O que será adicionado futuramente 
+
+Futuramente, os cards deverão possuir ações integradas para: 
+
+visualizar detalhes; 
+
+editar projeto; 
+
+excluir projeto; 
+
+enviar protótipo; 
+
+acessar versões; 
+
+acessar arquivos; 
+
+acessar informações financeiras. 
+
+ 
+
+Exemplo de card 
+
+Campanha Aurora 
+
+Produção de trilha sonora para campanha publicitária. 
+
+Cliente: Marina Costa 
+
+Prazo: 23/09 
+
+Valor: R$ 8.000 
+
+ 
+
+Ações disponíveis em cada projeto 
+
+Além dos dados principais, cada card deverá possuir uma área de opções de ações que Jether poderá realizar. 
+
+Entre as ações disponíveis estarão: 
+
+visualizar detalhes; 
+
+editar projeto; 
+
+excluir projeto; 
+
+enviar protótipo; 
+
+acessar versões e arquivos; 
+
+acessar informações financeiras. 
+
+O que já existe atualmente 
+
+Atualmente, as ações já estão definidas como parte da estrutura planejada para cada projeto. 
+
+O que será adicionado futuramente 
+
+Futuramente, essas ações deverão funcionar diretamente nos cards, reduzindo a necessidade de abrir várias páginas para realizar tarefas simples. 
+
+ 
+
+Editar projeto 
+
+A ação Editar projeto permitirá alterar os dados do projeto: 
+
+nome; 
+
+descrição; 
+
+cliente; 
+
+prazo; 
+
+valor. 
+
+Outras informações relacionadas ao projeto, como arquivos, protótipos, versões, registros financeiros e histórico, poderão ser acessadas nas áreas específicas do projeto. 
+
+O que já existe atualmente 
+
+Atualmente, os campos principais que poderão ser editados já estão definidos. 
+
+O que será adicionado futuramente 
+
+Futuramente, a edição deverá atualizar automaticamente todas as áreas relacionadas ao projeto, incluindo: 
+
+Dashboard; 
+
+Financeiro; 
+
+Visão por etapas; 
+
+histórico; 
+
+alertas. 
+
+ 
+
+Excluir projeto 
+
+A ação Excluir projeto deverá permitir a remoção do projeto cadastrado. 
+
+Antes da exclusão definitiva, o sistema deverá apresentar uma confirmação para evitar que um projeto seja apagado acidentalmente. 
+
+Exemplo: 
+
+Tem certeza de que deseja excluir este projeto? Essa ação poderá remover também os arquivos, versões e informações relacionadas. 
+
+A exclusão deverá respeitar as regras definidas para os dados relacionados ao projeto, especialmente informações financeiras, notas fiscais, protótipos e histórico de atividades. 
+
+O que já existe atualmente 
+
+Atualmente, a função de exclusão e a necessidade de confirmação já estão previstas. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá definir regras específicas para: 
+
+arquivos relacionados; 
+
+versões; 
+
+notas fiscais; 
+
+registros financeiros; 
+
+histórico de atividades; 
+
+atividades do Dashboard. 
+
+ 
+
+Envio de protótipo na seção de projetos cadastrados 
+
+A função de Enviar protótipo poderá ficar disponível diretamente na área de ações de cada projeto dentro da seção de projetos cadastrados. 
+
+Dessa forma, Jether não precisará necessariamente abrir a página completa do projeto para enviar uma versão ao cliente. 
+
+Ao selecionar essa ação, o Sonota deverá permitir: 
+
+escolher o protótipo ou a versão que será enviada; 
+
+visualizar o cliente relacionado; 
+
+confirmar o número de WhatsApp cadastrado; 
+
+revisar ou editar a mensagem; 
+
+realizar o envio. 
+
+O que já existe atualmente 
+
+Atualmente, a função de envio de protótipos já está planejada como uma ação relacionada aos projetos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o envio deverá ser realizado diretamente pelo Sonota, utilizando os dados do projeto e do cliente já cadastrados. 
+
+ 
+
+9.2 Visão por etapas 
+
+Abaixo da seção Projetos cadastrados, deverá existir uma seção chamada Visão por etapas. 
+
+Essa seção funcionará como uma organização visual de todos os projetos, facilitando a identificação do estágio em que cada trabalho se encontra. 
+
+A visualização deverá seguir o conceito de um quadro com colunas, semelhante a um painel de post-its ou a um quadro Kanban. 
+
+Cada coluna representará uma etapa do projeto, e os projetos serão exibidos como cards dentro da coluna correspondente. 
+
+O que já existe atualmente 
+
+Atualmente, a Visão por etapas já está definida como um quadro visual com colunas. 
+
+As etapas planejadas são: 
+
+Proposta; 
+
+Em produção; 
+
+Revisão; 
+
+Concluído; 
+
+Cancelado. 
+
+O que será adicionado futuramente 
+
+Futuramente, os cards deverão ser movimentados entre as colunas por meio de arrastar e soltar, atualizando automaticamente o status e as informações relacionadas. 
+
+ 
+
+Informações exibidas nos cards 
+
+Cada card da Visão por etapas deverá apresentar somente os dados principais do projeto: 
+
+nome do projeto; 
+
+descrição; 
+
+cliente; 
+
+prazo; 
+
+valor. 
+
+O status será definido pela coluna em que o card estiver localizado e não precisará ser repetido dentro do card. 
+
+Os cards deverão ser visualmente simples, semelhantes a post-its digitais, permitindo que Jether identifique rapidamente a situação de cada projeto. 
+
+O que já existe atualmente 
+
+Atualmente, os dados principais dos cards já estão definidos. 
+
+O que será adicionado futuramente 
+
+Futuramente, os cards deverão apresentar ações rápidas e links para: 
+
+detalhes; 
+
+versões; 
+
+protótipos; 
+
+financeiro; 
+
+edição; 
+
+exclusão. 
+
+ 
+
+Arrastar cards entre etapas 
+
+A Visão por etapas deverá permitir que Jether arraste os cards de um projeto de uma coluna para outra. 
+
+Essa interação deverá funcionar no formato de arrastar e soltar, também conhecido como drag and drop. 
+
+Por exemplo, se um projeto estiver na coluna Proposta, Jether poderá arrastar o card para a coluna Concluído. 
+
+Ao soltar o card na nova coluna, o Sonota deverá: 
+
+identificar a nova etapa selecionada; 
+
+alterar automaticamente o status do projeto; 
+
+salvar a alteração no sistema; 
+
+atualizar a posição do card; 
+
+registrar a mudança no histórico de atividades; 
+
+atualizar os indicadores e informações relacionadas no Dashboard. 
+
+O que já existe atualmente 
+
+Atualmente, a movimentação por etapas já está definida como parte do planejamento da página de Projetos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o recurso de arrastar e soltar deverá funcionar de forma integrada ao status, histórico, Dashboard e Financeiro. 
+
+ 
+
+Exemplo de alteração automática 
+
+Antes da movimentação: 
+
+Projeto: Campanha Aurora 
+
+Status: Proposta 
+
+Após arrastar o card para a coluna Concluído: 
+
+Projeto: Campanha Aurora 
+
+Status: Concluído 
+
+A alteração deverá acontecer automaticamente após o card ser solto na nova coluna. 
+
+Dependendo da etapa escolhida, o sistema poderá solicitar uma confirmação antes de concluir a alteração. 
+
+Essa confirmação será especialmente importante quando o projeto for movido para: 
+
+Concluído; 
+
+Cancelado. 
+
+Exemplo: 
+
+Deseja alterar o status de “Campanha Aurora” para “Concluído”? 
+
+[Confirmar] [Cancelar] 
+
+Caso Jether confirme, o projeto deverá ser atualizado imediatamente. 
+
+O que já existe atualmente 
+
+Atualmente, as regras de alteração de status e confirmação já estão definidas no planejamento. 
+
+O que será adicionado futuramente 
+
+Futuramente, essas regras deverão ser implementadas no funcionamento real do quadro. 
+
+ 
+
+Atualização financeira ao mover para “Concluído” 
+
+Quando um card for arrastado para a coluna Concluído, o Sonota deverá atualizar automaticamente o status operacional do projeto para Concluído. 
+
+O valor do projeto também deverá ser disponibilizado para o módulo Financeiro. 
+
+Por exemplo: 
+
+Projeto: Campanha Aurora 
+
+Valor: R$ 8.000 
+
+Novo status: Concluído 
+
+Situação financeira: A receber — R$ 8.000 
+
+O sistema deverá utilizar o valor já cadastrado no projeto, sem exigir que Jether digite novamente essa informação. 
+
+Caso o projeto ainda não tenha sido pago, ele deverá aparecer no Financeiro como valor a receber. 
+
+Caso o pagamento já esteja registrado como recebido, o sistema deverá manter a situação financeira como recebida, sem criar uma nova cobrança ou duplicar o valor. 
+
+O que já existe atualmente 
+
+Atualmente, a regra de integração entre projeto concluído e Financeiro já está definida. 
+
+O que será adicionado futuramente 
+
+Futuramente, essa integração deverá funcionar automaticamente quando o projeto for movido para a coluna Concluído. 
+
+ 
+
+Regras financeiras ao alterar a etapa 
+
+Ao mover um projeto para Concluído: 
+
+o status do projeto deverá ser alterado para Concluído; 
+
+o valor cadastrado deverá ser enviado automaticamente para o Financeiro; 
+
+se não houver pagamento registrado, a situação deverá ser “A receber”; 
+
+se o pagamento já estiver registrado, a situação deverá permanecer “Recebido”; 
+
+o valor não deverá ser duplicado; 
+
+o projeto deverá ser considerado concluído nos indicadores do Dashboard; 
+
+o projeto poderá ser contabilizado no gráfico “Fluxo de estúdio” conforme a regra de período definida. 
+
+Ao mover um projeto de Concluído para outra etapa: 
+
+o status deverá ser atualizado novamente; 
+
+o sistema deverá registrar a reabertura do projeto; 
+
+o projeto poderá deixar de ser contabilizado como concluído no período, conforme as regras do Dashboard; 
+
+o registro financeiro já existente não deverá ser apagado automaticamente; 
+
+caso seja necessário alterar a situação financeira, isso deverá ser feito no módulo Financeiro. 
+
+O que já existe atualmente 
+
+Atualmente, essas regras de integração entre status, conclusão e financeiro já estão definidas no planejamento. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá executar essas regras automaticamente, evitando duplicidade de valores e perda de informações. 
+
+ 
+
+Histórico da movimentação 
+
+Toda alteração realizada por meio do arrastar e soltar deverá ser registrada no histórico do projeto. 
+
+Exemplo: 
+
+22/09 — Projeto movido de Proposta para Concluído 
+
+Também deverá ser registrada uma atividade recente no Dashboard. 
+
+Exemplo: 
+
+Projeto concluído 
+
+Campanha Aurora — há 5 minutos. 
+
+O que já existe atualmente 
+
+Atualmente, o registro de movimentações já está previsto como parte do histórico do projeto. 
+
+O que será adicionado futuramente 
+
+Futuramente, cada movimentação deverá gerar automaticamente: 
+
+registro no histórico; 
+
+atividade recente; 
+
+atualização do Dashboard; 
+
+atualização do status; 
+
+atualização do Financeiro, quando aplicável. 
+
+ 
+
+Interação com os cards 
+
+Ao clicar em um card, Jether deverá ser direcionado para os detalhes do projeto correspondente. 
+
+Também poderá ser possível realizar ações rápidas diretamente no card, como: 
+
+editar projeto; 
+
+enviar protótipo; 
+
+abrir versões; 
+
+visualizar informações financeiras; 
+
+excluir projeto. 
+
+A alteração de status deverá ser realizada preferencialmente pelo recurso de arrastar e soltar, mantendo a Visão por etapas como uma ferramenta visual de acompanhamento. 
+
+O que já existe atualmente 
+
+Atualmente, a interação com os cards e as ações rápidas já está prevista no planejamento. 
+
+O que será adicionado futuramente 
+
+Futuramente, essas ações deverão funcionar diretamente no quadro, permitindo que Jether realize tarefas sem sair da Visão por etapas. 
+
+ 
+
+Atualização automática 
+
+A Visão por etapas deverá ser atualizada sempre que: 
+
+um novo projeto for criado; 
+
+um projeto for editado; 
+
+um card for arrastado para outra coluna; 
+
+o status for alterado pelo Assistente Sonota; 
+
+um projeto for excluído; 
+
+um projeto for concluído; 
+
+um projeto for cancelado. 
+
+O que já existe atualmente 
+
+Atualmente, os eventos que deverão atualizar a Visão por etapas já estão definidos. 
+
+O que será adicionado futuramente 
+
+Futuramente, a atualização deverá ocorrer automaticamente em todas as páginas relacionadas ao projeto. 
+
+ 
+
+9.3 Proposta e informações do projeto 
+
+A área de proposta será utilizada para registrar de forma organizada aquilo que Jether compreendeu durante sua conversa com o cliente. 
+
+Na visualização principal dos cards, deverão aparecer apenas: 
+
+nome do projeto; 
+
+descrição; 
+
+cliente; 
+
+prazo; 
+
+valor. 
+
+Informações complementares poderão ser acessadas dentro dos detalhes do projeto, quando necessário. 
+
+O objetivo não será substituir a conversa realizada por ligação ou WhatsApp. 
+
+O Sonota servirá para registrar de forma organizada o resultado dessa conversa. 
+
+O que já existe atualmente 
+
+Atualmente, a proposta é compreendida e discutida diretamente entre Jether e o cliente por meio de conversas, ligações e reuniões. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir registrar o resultado dessas conversas dentro do projeto, incluindo: 
+
+objetivo; 
+
+referências; 
+
+estilo musical; 
+
+instrumentos; 
+
+observações; 
+
+prazo; 
+
+valor; 
+
+arquivos enviados pelo cliente. 
+
+ 
+
+9.4 Protótipos e versões 
+
+Cada projeto poderá possuir diferentes versões de áudio. 
+
+Exemplo: 
+
+Campanha Aurora 
+
+V1 — Primeiro protótipo 
+
+V2 — Alterações solicitadas 
+
+V3 — Nova versão 
+
+V4 — Versão aprovada 
+
+Master — Arquivo entregue 
+
+Cada versão poderá conter: 
+
+arquivo; 
+
+data; 
+
+observações; 
+
+identificação da versão; 
+
+status. 
+
+Isso permitirá identificar facilmente qual foi a última versão e qual arquivo foi utilizado na entrega. 
+
+O que já existe atualmente 
+
+Atualmente, Jether produz diferentes versões dos trabalhos e utiliza arquivos para apresentar as alterações aos clientes. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá organizar todas as versões dentro do projeto, permitindo identificar: 
+
+primeira versão; 
+
+versões revisadas; 
+
+versão aprovada; 
+
+master final; 
+
+arquivo enviado; 
+
+data de envio; 
+
+observações do cliente. 
+
+ 
+
+9.5 Envio de protótipos pelo WhatsApp 
+
+Uma das novas funções planejadas será a possibilidade de enviar um protótipo diretamente pelo Sonota. 
+
+Essa função poderá ser acessada tanto dentro dos detalhes do projeto quanto na área de ações da seção Projetos cadastrados. 
+
+Dentro do projeto poderá existir: 
+
+[Enviar protótipo] 
+
+Ao selecionar a função, o Sonota utilizará os dados do cliente já cadastrado. 
+
+Exemplo: 
+
+Cliente: Marina Costa 
+
+Projeto: Campanha Aurora 
+
+Arquivo: Aurora-V2.mp3 
+
+WhatsApp: número cadastrado do cliente. 
+
+O sistema poderá preparar automaticamente uma mensagem: 
+
+Olá, Marina! Estou enviando uma nova versão do protótipo do projeto Campanha Aurora para você avaliar. 
+
+Jether poderá editar a mensagem antes do envio. 
+
+O objetivo é diminuir etapas repetitivas sem retirar de Jether o controle da comunicação. 
+
+O que já existe atualmente 
+
+Atualmente, Jether envia os protótipos diretamente aos clientes por meio do WhatsApp ou de outros canais de comunicação. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir o envio do protótipo a partir do projeto, utilizando automaticamente: 
+
+cliente; 
+
+número de WhatsApp; 
+
+nome do projeto; 
+
+arquivo; 
+
+versão; 
+
+modelo de mensagem. 
+
+ 
+
+Modelos de mensagem 
+
+O Sonota poderá oferecer modelos diferentes. 
+
+Primeiro protótipo 
+
+“Olá, [cliente]! Estou enviando o primeiro protótipo do projeto [projeto] para sua avaliação.” 
+
+Nova versão 
+
+“Olá, [cliente]! Realizei as alterações e estou enviando uma nova versão do projeto [projeto].” 
+
+Versão final 
+
+“Olá, [cliente]! Segue a versão final do projeto [projeto].” 
+
+O que já existe atualmente 
+
+Atualmente, as mensagens são escritas e enviadas manualmente por Jether. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota poderá oferecer modelos automáticos, permitindo que Jether revise e edite a mensagem antes do envio. 
+
+ 
+
+9.6 Histórico do projeto 
+
+O sistema poderá registrar eventos importantes automaticamente. 
+
+Exemplo: 
+
+15/09 — Projeto criado 
+
+17/09 — Protótipo V1 adicionado 
+
+17/09 — Protótipo V1 enviado 
+
+19/09 — Protótipo V2 adicionado 
+
+22/09 — Projeto movido de Proposta para Em produção 
+
+23/09 — Projeto movido de Em produção para Revisão 
+
+24/09 — Projeto movido de Revisão para Concluído 
+
+24/09 — Versão final registrada 
+
+Isso aumenta a rastreabilidade do projeto. 
+
+O que já existe atualmente 
+
+Atualmente, o histórico dos trabalhos é acompanhado por meio de arquivos, conversas, datas e informações utilizadas durante a produção. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá registrar automaticamente todas as principais ações realizadas no projeto, criando uma linha do tempo completa. 
+
+ 
+
+10. Arranjos 
+
+A página de Arranjos será responsável pelo cadastro técnico e musical dos arquivos. 
+
+Cada arranjo poderá possuir: 
+
+nome; 
+
+arquivo; 
+
+BPM; 
+
+tonalidade; 
+
+gênero; 
+
+instrumentos; 
+
+tags; 
+
+observações. 
+
+Formatos poderão incluir: 
+
+MP3; 
+
+WAV; 
+
+OGG; 
+
+FLAC. 
+
+O que já existe atualmente 
+
+Atualmente, os arranjos são produzidos e armazenados por Jether em arquivos e pastas utilizadas durante o processo de criação. 
+
+As informações técnicas podem ser conhecidas por Jether, mas não necessariamente estão organizadas em uma base central. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir cadastrar cada arranjo com suas informações técnicas e musicais. 
+
+ 
+
+Exemplo 
+
+Aurora Theme 
+
+BPM: 128 
+
+Tonalidade: F#m 
+
+Instrumentos: 
+
+Synth; 
+
+Bass; 
+
+Drums. 
+
+Tags: 
+
+tecnologia; 
+
+energia; 
+
+tensão. 
+
+ 
+
+Análise automática de arranjos 
+
+O que já existe atualmente 
+
+Atualmente, o cadastro das informações dos arranjos depende do preenchimento e da organização manual. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota poderá analisar automaticamente os arquivos e sugerir: 
+
+BPM; 
+
+tonalidade; 
+
+instrumentos; 
+
+características musicais; 
+
+gênero; 
+
+tags. 
+
+Jether continuará podendo corrigir essas informações. 
+
+ 
+
+11. Biblioteca 
+
+A Biblioteca funcionará como o catálogo interno de arquivos musicais da M&G. 
+
+Seu objetivo principal será permitir que Jether encontre rapidamente arranjos que já possui. 
+
+O que já existe atualmente 
+
+Atualmente, os arquivos musicais são armazenados em pastas e locais utilizados durante a produção. 
+
+A localização dos arranjos depende principalmente da organização das pastas e dos nomes dos arquivos. 
+
+O que será adicionado futuramente 
+
+Futuramente, a Biblioteca deverá centralizar as informações dos arranjos e permitir buscas por características musicais. 
+
+ 
+
+Busca por filtros 
+
+Será possível procurar por: 
+
+nome; 
+
+BPM; 
+
+tonalidade; 
+
+gênero; 
+
+instrumento; 
+
+tags. 
+
+Exemplo: 
+
+BPM: 120–140 
+
+Instrumento: Synth 
+
+Tonalidade: F#m 
+
+O Sonota exibirá somente os arquivos compatíveis. 
+
+O que já existe atualmente 
+
+Atualmente, a busca é realizada principalmente por nome de arquivo, pasta ou memória da localização. 
+
+O que será adicionado futuramente 
+
+Futuramente, a Biblioteca deverá permitir filtros combinados para encontrar arranjos com características específicas. 
+
+ 
+
+Abrir localização do arquivo 
+
+Outra função planejada será: 
+
+Mostrar na pasta 
+
+Ao clicar, o Sonota poderá abrir a pasta correspondente no computador. 
+
+Exemplo: 
+
+D:\Estudio\Arranjos\Aurora Theme\ 
+
+Isso permite que os arquivos continuem sendo utilizados normalmente nos programas de produção musical. 
+
+O que já existe atualmente 
+
+Atualmente, os arquivos permanecem armazenados nas pastas utilizadas por Jether no computador. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota poderá indicar a localização do arquivo e abrir diretamente a pasta correspondente. 
+
+ 
+
+12. Busca Inteligente 
+
+Enquanto a Biblioteca utiliza filtros tradicionais, a Busca Inteligente permitirá realizar pesquisas utilizando linguagem natural. 
+
+Exemplo: 
+
+Quero músicas entre 120 e 150 BPM com synth e clima futurista. 
+
+O sistema poderá interpretar a frase e pesquisar os arquivos correspondentes. 
+
+O que já existe atualmente 
+
+Atualmente, a busca por arquivos e informações depende principalmente de filtros tradicionais, nomes, pastas e conhecimento prévio de Jether. 
+
+O que será adicionado futuramente 
+
+Futuramente, a Busca Inteligente deverá interpretar comandos escritos em linguagem natural e consultar diferentes áreas do Sonota. 
+
+ 
+
+Expansão futura 
+
+A busca poderá consultar também outras informações do Sonota. 
+
+Exemplos: 
+
+Qual arranjo foi utilizado no projeto da Marina? 
+
+Onde está a versão final do projeto Aurora? 
+
+Quais projetos ainda possuem pagamento pendente? 
+
+Quais músicas possuem aproximadamente 130 BPM? 
+
+Dessa maneira, o Sonota começa a funcionar como uma espécie de memória digital da M&G Criação. 
+
+O que já existe atualmente 
+
+Atualmente, a Busca Inteligente está definida como uma funcionalidade planejada para facilitar a localização de informações. 
+
+O que será adicionado futuramente 
+
+Futuramente, ela deverá consultar: 
+
+arranjos; 
+
+projetos; 
+
+clientes; 
+
+versões; 
+
+arquivos; 
+
+pagamentos; 
+
+prazos; 
+
+notas fiscais; 
+
+histórico de atividades. 
+
+ 
+
+13. Inteligência Artificial para áudio 
+
+O Sonota também poderá incorporar ferramentas de processamento musical. 
+
+Essas funções não são a prioridade inicial do sistema, mas poderão aumentar seu valor no futuro. 
+
+O que já existe atualmente 
+
+Atualmente, os arquivos de áudio são produzidos e editados utilizando as ferramentas de produção musical utilizadas por Jether. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota poderá incorporar recursos de inteligência artificial para auxiliar no processamento e na organização dos arquivos de áudio. 
+
+ 
+
+Separação de Stems 
+
+Um arquivo poderá ser dividido em diferentes partes, como: 
+
+bateria; 
+
+baixo; 
+
+vocal; 
+
+instrumentos; 
+
+outros elementos. 
+
+MIDI 
+
+Alguns elementos do áudio poderão ser convertidos em arquivos MIDI editáveis. 
+
+Partitura 
+
+O sistema poderá gerar partituras ou arquivos compatíveis com softwares de notação musical. 
+
+Todos os arquivos gerados permanecerão relacionados ao arranjo original. 
+
+ 
+
+14. Financeiro 
+
+O módulo Financeiro será diretamente conectado aos projetos. 
+
+Seu objetivo não será substituir um sistema contábil completo. 
+
+Ele deverá responder principalmente: 
+
+Quanto Jether tem para receber? 
+
+De qual projeto? 
+
+De qual cliente? 
+
+O pagamento foi realizado? 
+
+Existe nota fiscal? 
+
+O que já existe atualmente 
+
+Atualmente, Jether acompanha os valores dos projetos, pagamentos e notas fiscais por meio das ferramentas e registros utilizados pela M&G. 
+
+O que será adicionado futuramente 
+
+Futuramente, o módulo Financeiro deverá centralizar essas informações e relacioná-las automaticamente aos projetos e clientes. 
+
+ 
+
+Informações 
+
+Cada projeto possuirá: 
+
+valor; 
+
+situação do pagamento; 
+
+vencimento; 
+
+documentos relacionados. 
+
+Os status financeiros poderão incluir: 
+
+previsto; 
+
+a receber; 
+
+recebido; 
+
+atrasado. 
+
+O que já existe atualmente 
+
+Atualmente, essas informações são definidas de acordo com cada projeto e acompanhadas manualmente. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá permitir visualizar e atualizar a situação financeira diretamente dentro do projeto ou do módulo Financeiro. 
+
+ 
+
+15. Automação entre Projeto e Financeiro 
+
+Uma das melhorias planejadas será eliminar o cadastro duplicado de informações. 
+
+Se Jether criar: 
+
+Campanha Aurora 
+
+Valor: 
+
+R$ 8.000 
+
+o Financeiro já poderá reconhecer automaticamente esse valor. 
+
+Quando o projeto for concluído, seja por alteração manual, pelo Assistente Sonota ou pelo recurso de arrastar o card para a coluna Concluído, o sistema poderá alterar sua situação financeira para: 
+
+A receber — R$ 8.000 
+
+Depois que Jether registrar o pagamento: 
+
+Recebido — R$ 8.000 
+
+Isso evita que o mesmo valor precise ser digitado em diversas páginas. 
+
+O sistema deverá garantir que o valor não seja duplicado caso o projeto seja movido novamente entre as etapas. 
+
+Esses registros também deverão alimentar o card Fluxo de estúdio no Dashboard. 
+
+Quando um pagamento for marcado como recebido, o valor deverá ser contabilizado no mês correspondente ao recebimento. 
+
+Quando um projeto for marcado como concluído, ele deverá ser contabilizado como projeto finalizado no período correspondente, conforme as regras definidas para o Dashboard. 
+
+O que já existe atualmente 
+
+Atualmente, o valor do projeto e as informações financeiras são definidos durante o acompanhamento de cada trabalho. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá conectar automaticamente o projeto ao Financeiro, evitando que Jether cadastre o mesmo valor mais de uma vez. 
+
+ 
+
+16. Notas fiscais 
+
+Cada projeto poderá possuir documentos financeiros relacionados. 
+
+O Sonota permitirá: 
+
+adicionar; 
+
+substituir; 
+
+baixar; 
+
+visualizar; 
+
+excluir notas fiscais. 
+
+Os cards deverão apresentar: 
+
+Nome do projeto 
+
+Descrição 
+
+Nome do arquivo 
+
+Exemplo: 
+
+Campanha Aurora 
+
+Nota fiscal referente à produção musical. 
+
+NF-Campanha-Aurora.pdf 
+
+O que já existe atualmente 
+
+Atualmente, as notas fiscais são geradas e armazenadas conforme o processo financeiro utilizado pela M&G. 
+
+O que será adicionado futuramente 
+
+Futuramente, as notas fiscais deverão ser anexadas diretamente aos projetos e ficarão disponíveis no histórico financeiro correspondente. 
+
+ 
+
+17. Assistente Sonota 
+
+O Assistente Sonota será um chat localizado dentro da aplicação. 
+
+Seu objetivo será permitir que Jether realize tarefas através de linguagem natural. 
+
+Atualmente, o conceito já permite comandos como: 
+
+Muda Campanha Aurora para concluído. 
+
+O sistema identifica o projeto e realiza a alteração. 
+
+Também poderá compreender pequenas diferenças ou erros na escrita. 
+
+Exemplo: 
+
+muda campnha aurra pra concluido 
+
+O sistema poderá identificar: 
+
+Campanha Aurora 
+
+Ao alterar o status por meio do Assistente, o sistema deverá atualizar a coluna correspondente na Visão por etapas, o Financeiro, o Dashboard e o histórico de atividades. 
+
+O que já existe atualmente 
+
+Atualmente, o Assistente Sonota já está definido como um chat dentro da aplicação, capaz de interpretar comandos relacionados aos projetos. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Assistente deverá executar ações em diferentes áreas do sistema e atualizar automaticamente os dados relacionados. 
+
+ 
+
+18. Evolução do Assistente 
+
+Uma das principais melhorias planejadas será transformar o Assistente Sonota em um verdadeiro assistente operacional. 
+
+Ele poderá tanto consultar informações quanto realizar ações. 
+
+Exemplos: 
+
+Quais projetos estão em produção? 
+
+Quanto tenho para receber? 
+
+Qual projeto vence primeiro? 
+
+Procura arranjos entre 120 e 130 BPM. 
+
+Onde está a última versão do Aurora? 
+
+Também poderá executar ações. 
+
+Exemplo: 
+
+Cria um projeto para Marina utilizando Aurora Theme, no valor de R$ 5.000. 
+
+Antes de executar, o Sonota poderá apresentar: 
+
+Criar projeto? 
+
+Cliente: Marina Costa 
+
+Arranjo: Aurora Theme 
+
+Valor: R$ 5.000 
+
+[Confirmar] [Cancelar] 
+
+Outro exemplo: 
+
+Marca Campanha Aurora como recebido. 
+
+O Assistente poderá alterar o projeto e atualizar automaticamente o financeiro e os indicadores do Dashboard. 
+
+Também poderá alterar a etapa do projeto. 
+
+Exemplo: 
+
+Move Campanha Aurora para concluído. 
+
+Nesse caso, o sistema deverá: 
+
+alterar o status para Concluído; 
+
+mover o card para a coluna Concluído; 
+
+disponibilizar o valor no Financeiro; 
+
+atualizar os indicadores; 
+
+registrar a atividade no histórico. 
+
+O que já existe atualmente 
+
+Atualmente, o Assistente já possui a ideia de interpretar comandos simples, como alterar o status de um projeto. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Assistente deverá: 
+
+consultar informações; 
+
+criar projetos; 
+
+editar projetos; 
+
+alterar etapas; 
+
+atualizar pagamentos; 
+
+localizar arquivos; 
+
+pesquisar arranjos; 
+
+consultar prazos; 
+
+registrar atividades; 
+
+solicitar confirmação antes de ações importantes. 
+
+ 
+
+19. Lembretes e alertas operacionais 
+
+O Sonota poderá identificar situações importantes e apresentá-las para Jether. 
+
+Esses alertas serão relacionados principalmente à operação interna, e não à prospecção de clientes. 
+
+Exemplos: 
+
+projeto vence amanhã; 
+
+projeto está atrasado; 
+
+protótipo ainda não foi enviado; 
+
+pagamento está pendente; 
+
+pagamento está atrasado; 
+
+projeto concluído sem nota fiscal; 
+
+projeto sem arranjo associado. 
+
+Esses alertas poderão aparecer no card Precisa da sua atenção no Dashboard e futuramente gerar notificações. 
+
+O que já existe atualmente 
+
+Atualmente, os tipos de situações que precisam de acompanhamento já foram identificados no planejamento do Sonota. 
+
+O que será adicionado futuramente 
+
+Futuramente, o sistema deverá identificar automaticamente essas situações e apresentar alertas no Dashboard. 
+
+Também poderão ser adicionadas notificações para lembrar Jether sobre: 
+
+prazos; 
+
+pagamentos; 
+
+protótipos; 
+
+projetos atrasados; 
+
+documentos pendentes. 
+
+ 
+
+20. Perfil 
+
+A página de Perfil permitirá editar informações básicas do usuário. 
+
+O que já existe atualmente 
+
+Atualmente, a página de Perfil já está planejada para permitir a edição de: 
+
+nome; 
+
+empresa; 
+
+cargo; 
+
+e-mail; 
+
+foto. 
+
+O que será adicionado futuramente 
+
+Posteriormente, poderão existir: 
+
+telefone; 
+
+senha; 
+
+preferências; 
+
+organização; 
+
+usuários da equipe; 
+
+permissões; 
+
+configurações de notificações. 
+
+Como atualmente a operação da M&G está concentrada principalmente em Jether, funcionalidades avançadas de equipes não são prioridade inicial. 
+
+ 
+
+21. Princípio central do Sonota 
+
+Um dos principais princípios do sistema será: 
+
+Uma informação deve ser cadastrada uma vez e reutilizada pelo restante da plataforma. 
+
+Por exemplo: 
+
+Ao cadastrar um cliente, o Sonota passa a conhecer seu: 
+
+nome; 
+
+telefone; 
+
+WhatsApp; 
+
+empresa; 
+
+e-mail. 
+
+Ao criar um projeto e selecionar esse cliente, essas informações já estarão relacionadas. 
+
+Ao definir o valor do projeto: 
+
+R$ 8.000 
+
+o Financeiro já conhece esse valor. 
+
+Ao selecionar um protótipo para envio, o sistema já conhece: 
+
+cliente; 
+
+WhatsApp; 
+
+projeto; 
+
+arquivo. 
+
+Ao registrar um pagamento recebido, o sistema deverá atualizar automaticamente: 
+
+o financeiro do projeto; 
+
+o valor total recebido; 
+
+o card de indicadores; 
+
+o gráfico Fluxo de estúdio; 
+
+as atividades recentes. 
+
+Ao arrastar um projeto para outra etapa, o sistema deverá reutilizar o status da coluna selecionada para atualizar automaticamente: 
+
+o status do projeto; 
+
+a posição do card; 
+
+o histórico; 
+
+os indicadores; 
+
+o Financeiro, quando aplicável. 
+
+Isso reduz trabalho repetitivo e erros. 
+
+O que já existe atualmente 
+
+Atualmente, o princípio de centralizar as informações já está definido como base do Sonota. 
+
+O que será adicionado futuramente 
+
+Futuramente, todas as páginas deverão compartilhar os mesmos dados, evitando cadastros duplicados e mantendo as informações sincronizadas. 
+
+ 
+
+22. Fluxo principal da utilização do Sonota 
+
+O fluxo ideal da M&G utilizando o sistema será: 
+
+Cliente encontra Jether 
+
+↓ 
+
+Jether conversa diretamente com o cliente 
+
+LinkedIn / WhatsApp / Ligação 
+
+↓ 
+
+Jether entende a necessidade 
+
+↓ 
+
+Cliente é cadastrado ou selecionado no Sonota 
+
+↓ 
+
+Projeto é criado com nome, descrição, cliente, prazo e valor 
+
+↓ 
+
+Projeto aparece na coluna Proposta 
+
+↓ 
+
+Proposta e informações são registradas 
+
+↓ 
+
+Arranjo e arquivos são relacionados 
+
+↓ 
+
+Primeiro protótipo é produzido 
+
+↓ 
+
+Protótipo é enviado pelo WhatsApp utilizando o Sonota 
+
+↓ 
+
+Card do projeto é arrastado para Em produção 
+
+↓ 
+
+Nova versão é registrada, caso necessário 
+
+↓ 
+
+Card do projeto é arrastado para Revisão 
+
+↓ 
+
+Projeto é aprovado 
+
+↓ 
+
+Card do projeto é arrastado para Concluído 
+
+↓ 
+
+Status do projeto é atualizado automaticamente 
+
+↓ 
+
+Valor do projeto é disponibilizado no Financeiro 
+
+↓ 
+
+Projeto é considerado finalizado no mês correspondente 
+
+↓ 
+
+Financeiro registra automaticamente o valor a receber 
+
+↓ 
+
+Pagamento é registrado como recebido 
+
+↓ 
+
+O valor recebido é contabilizado no mês correspondente no Fluxo de estúdio 
+
+↓ 
+
+Os indicadores do Dashboard são atualizados 
+
+↓ 
+
+Nota fiscal e arquivos finais permanecem armazenados no histórico 
+
+O que já existe atualmente 
+
+Atualmente, esse fluxo representa a forma como Jether trabalha com os clientes e conduz os projetos, utilizando conversas, produção musical, arquivos, protótipos e acompanhamento financeiro. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá organizar e automatizar as etapas internas desse fluxo, mantendo o contato pessoal entre Jether e seus clientes. 
+
+ 
+
+23. Objetivo final 
+
+O Sonota não pretende mudar a forma como Jether cria música ou se relaciona com seus clientes. 
+
+Ele busca melhorar tudo aquilo que atualmente ocorre ao redor do processo criativo. 
+
+O sistema deverá funcionar como uma camada de organização e automação da M&G Criação. 
+
+Seu objetivo final pode ser resumido em: 
+
+Diminuir o tempo gasto por Jether com burocracia, organização e tarefas repetitivas para que ele possa dedicar uma parcela maior de sua rotina à criação e produção musical. 
+
+Assim, o Sonota deixa de ser apenas um sistema de cadastro e se transforma em uma plataforma capaz de conectar clientes, projetos, música, arquivos, inteligência artificial e financeiro dentro de uma única operação. 
+
+A página de Projetos terá um papel central nessa proposta. Por meio de cards objetivos, contendo apenas nome, descrição, cliente, prazo e valor, Jether poderá visualizar rapidamente seus trabalhos. Na Visão por etapas, ele poderá arrastar cada card entre as colunas de Proposta, Em produção, Revisão, Concluído e Cancelado. Essa movimentação atualizará automaticamente o status do projeto, registrará a alteração no histórico, atualizará o Dashboard e, ao mover um projeto para Concluído, disponibilizará seu valor no Financeiro sem necessidade de novo cadastro. 
+
+O que já existe atualmente 
+
+Atualmente, o Sonota já possui a estrutura geral das páginas, os principais fluxos da M&G e a definição das necessidades de organização, acompanhamento e automação. 
+
+O que será adicionado futuramente 
+
+Futuramente, o Sonota deverá integrar todas essas áreas em uma única operação, permitindo que Jether acompanhe seus projetos, arquivos, clientes, protótipos, pagamentos e atividades com menos esforço administrativo e maior controle sobre o trabalho. 
+
+ 

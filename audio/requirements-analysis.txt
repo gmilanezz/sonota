@@ -1,0 +1,4 @@
+# Python 3.11, ambiente virtual exclusivo para o Sonota
+numpy==1.26.4
+librosa==0.11.0
+soundfile==0.13.1

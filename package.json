@@ -1,0 +1,30 @@
+{
+  "name": "sonota-backend",
+  "version": "7.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Sonota: gestão musical integrada com backend Node.js e aplicativo Ionic + Angular",
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "dev": "node --watch --env-file-if-exists=.env src/server.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js",
+    "check": "node scripts/check.js",
+    "backup": "node --env-file-if-exists=.env scripts/backup.js",
+    "ui:install": "npm --prefix mobile install",
+    "ui:dev": "npm --prefix mobile start",
+    "ui:build": "npm --prefix mobile run build",
+    "build": "npm --prefix mobile run build",
+    "start:full": "npm run ui:build && npm start"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "express-rate-limit": "8.7.0",
+    "helmet": "8.3.0",
+    "multer": "2.4.0",
+    "music-metadata": "11.16.1",
+    "zod": "4.6.5"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+data/
+backups/
+.env
+.venv*/
+__pycache__/
+*.pyc
+.DS_Store
+mobile/node_modules/
