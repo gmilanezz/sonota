@@ -1,6 +1,6 @@
-# Sonota — Ionic + Angular com backend integrado
+# Sonota — Ionic React + backend integrado
 
-Esta é a evolução do projeto Sonota para uma aplicação **Ionic + Angular + TypeScript**, mantendo um backend Node.js/Express com SQLite e armazenamento privado de arquivos. A interface antiga em HTML/JS foi preservada como fallback em `public/`, mas a experiência principal agora fica em `mobile/` e é compilada para `public/ionic/`.
+Esta é a evolução do projeto Sonota para uma aplicação **Ionic + React + JavaScript**, mantendo um backend Node.js/Express com SQLite e armazenamento privado de arquivos. A interface antiga em HTML/JS foi preservada como fallback em `public/`, mas a experiência principal agora fica em `mobile/` e é compilada para `public/ionic/`.
 
 O foco desta versão é transformar o protótipo em uma demonstração funcional do fluxo real da M&G Criação: **cliente → projeto → arranjos/arquivos → protótipos/versões → financeiro → histórico/Dashboard**. O contato pessoal com o cliente continua fora da automação comercial; o Sonota organiza o que acontece ao redor desse relacionamento.
 
@@ -10,7 +10,7 @@ Requisito: **Node.js 24 LTS**.
 
 ### Opção mais simples
 
-Execute `Iniciar-Sonota.bat`. Na primeira execução ele instala as dependências do backend e da interface, compila o Ionic + Angular e inicia o servidor. Depois abra:
+Execute `Iniciar-Sonota.bat`. Na primeira execução ele instala as dependências do backend e da interface, compila o Ionic React e inicia o servidor. Depois abra:
 
 `http://localhost:3000`
 
@@ -33,11 +33,11 @@ npm run dev
 npm run ui:dev
 ```
 
-A interface de desenvolvimento abre normalmente em `http://localhost:8100` e encaminha `/api` para o backend local.
+A interface de desenvolvimento abre normalmente em `http://localhost:5173` e encaminha `/api` para o backend local.
 
 ## Estrutura
 
-- `mobile/`: aplicação Ionic + Angular voltada exclusivamente para a versão mobile.
+- `mobile/`: aplicação Ionic React/Vite e configuração Capacitor.
 - `src/`: backend Express, regras, autenticação, busca, assistente, workflow e banco.
 - `src/migrations/`: estrutura SQLite e evoluções do projeto.
 - `public/ionic/`: saída gerada por `npm run ui:build`.

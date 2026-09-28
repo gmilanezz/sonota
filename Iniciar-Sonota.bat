@@ -17,12 +17,12 @@ if not exist node_modules\express (
   call npm ci
   if errorlevel 1 goto :erro
 )
-if not exist mobile\node_modules\@ionic\angular (
-  echo Instalando Ionic + Angular...
+if not exist mobile\node_modules\@ionic\react (
+  echo Instalando Ionic React...
   call npm --prefix mobile install
   if errorlevel 1 goto :erro
 )
-echo Compilando a interface Ionic + Angular...
+echo Compilando a interface Ionic React...
 call npm run ui:build
 if errorlevel 1 goto :erro
 echo.

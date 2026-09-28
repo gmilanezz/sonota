@@ -3,7 +3,7 @@
   "version": "7.3.0",
   "private": true,
   "type": "module",
-  "description": "Sonota: gestão musical integrada com backend Node.js e aplicativo Ionic + Angular",
+  "description": "Sonota: gestão musical integrada com backend Node.js e interface Ionic React",
   "engines": {
     "node": ">=24.0.0 <25"
   },
@@ -14,7 +14,7 @@
     "check": "node scripts/check.js",
     "backup": "node --env-file-if-exists=.env scripts/backup.js",
     "ui:install": "npm --prefix mobile install",
-    "ui:dev": "npm --prefix mobile start",
+    "ui:dev": "npm --prefix mobile run dev",
     "ui:build": "npm --prefix mobile run build",
     "build": "npm --prefix mobile run build",
     "start:full": "npm run ui:build && npm start"

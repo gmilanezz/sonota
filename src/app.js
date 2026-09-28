@@ -278,8 +278,7 @@ export function createApp(overrides={}) {
     const projects=listProjects(db,req.userId);res.attachment('sonota-dados.json').json({exportedAt:now(),profile:profile(db.prepare('SELECT * FROM users WHERE id=?').get(req.userId)),clients:listClients(db,req.userId),arrangements:listArrangements(db,req.userId),projects,projectVersions:Object.fromEntries(projects.map(p=>[p.id,listProjectVersions(db,req.userId,p.id)])),projectHistory:listProjectEvents(db,req.userId,null,5000),docs:listDocs(db,req.userId),jobs:listJobs(db,req.userId)});
   });
   app.use('/api',(req,res)=>res.status(404).json({error:{code:'NOT_FOUND',message:'Endpoint não encontrado.'}}));
-  const ionicRoot=path.join(config.publicDir,'ionic');
-  const ionicDir=existsSync(path.join(ionicRoot,'browser','index.html'))?path.join(ionicRoot,'browser'):ionicRoot;
+  const ionicDir=path.join(config.publicDir,'ionic');
   if(existsSync(path.join(ionicDir,'index.html'))){
     app.use('/app',express.static(ionicDir,{dotfiles:'deny',etag:true,maxAge:0}));
     app.get('/app/*splat',(req,res)=>res.sendFile(path.join(ionicDir,'index.html')));
